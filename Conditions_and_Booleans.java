@@ -12,7 +12,7 @@ public class Main {
         
         boolean compare = !(x < y && y > z ) || (2 == 6 || x + 7 > y);
         
-        System.out.prinln(compare); 
+        System.out.println(compare); 
 
 
 
